@@ -12,7 +12,7 @@ Before you begin, make sure you have the following installed:
 
 # 🚀 Flask-K8s Task Tracker
 
-A full-stack, containerized web application built with **Flask** and **MySQL**, designed to run on a **Kubernetes (K3s)** cluster.
+A full-stack, containerized web application built with **Flask** and **MySQL**, designed to run on a **Kubernetes (K3s)** cluster
 
 ## 🛠️ Tech Stack
 - **Backend:** Python (Flask)
